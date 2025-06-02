@@ -1,0 +1,10 @@
+[
+  {
+    "ExpectedCategory": "Women",
+    "ExpectedProductName": "Blue Top"
+  },
+  {
+    "ExpectedCategory": "Men",
+    "ExpectedProductName": "Men Tshirt"
+  }
+]

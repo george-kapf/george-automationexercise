@@ -1,0 +1,41 @@
+# .NET Core
+bin/
+obj/
+TestResults/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Playwright
+playwright-report/
+playwright/.cache/
+*.log
+*.tmp
+output/
+.screenshots/
+
+# Node.js (for Playwright CLI or visual tools if used)
+node_modules/
+package-lock.json
+
+# Visual Studio Code
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+*.lcov
+
+# Baseline screenshots (optional – ignore if committed)
+# baselineScreenshots/

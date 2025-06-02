@@ -1,0 +1,7 @@
+[
+  {
+    "ProductIndices": [1, 2],
+    "UpdateQuantities": [2, 3],
+    "RemoveIndex": 1
+  }
+]

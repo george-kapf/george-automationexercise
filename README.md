@@ -22,8 +22,8 @@ End-to-End (E2E) and API test automation framework built using **Playwright for 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/AutomationExerciseTests.git
-cd AutomationExerciseTests
+git clone https://github.com/your-username/george-automationexercise.git
+cd george-automationexercise
 ````
 
 ### 2. Install Dependencies
